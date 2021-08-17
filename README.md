@@ -10,7 +10,7 @@
 
 <img src="https://github.com/ajulyav/Exercises_GreenEyes2/blob/main/img/img_0.png" width="200" height="200"> <img src="https://github.com/ajulyav/Exercises_GreenEyes2/blob/main/img/mask_image0.png" width="200" height="200">
 
-More details can be found in the [PDF](https://github.com/ajulyav/Exercises_GreenEyes2/blob/main/Practical_Exercises_GreenEyes.pdf)
+More details can be found in the [PDF](https://github.com/ajulyav/Exercises_GreenEyes2/blob/main/Practical_Exercises_Ficha__Salad.pdf)
 
 
 
